@@ -1,16 +1,17 @@
 # nahandroko
 
-A new Flutter project.
 
-## Getting Started
+""Malagasy Delicacies App""
 
-This project is a starting point for a Flutter application.
+Welcome to the Malagasy Delicacies App! 🍽️🇲🇬
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+About
+The Malagasy Delicacies App is a mobile application built using Flutter and Dart. This app aims to showcase the rich and diverse cuisine of Madagascar, featuring a variety of traditional Malagasy dishes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Explore Authentic Malagasy Dishes: Browse through a collection of mouth-watering Malagasy dishes.
+Detailed Descriptions: Learn about the ingredients, preparation methods, and cultural significance of each dish.
+Favorites: Mark your favorite dishes for quick access.
+Search Functionality: Easily find specific dishes using the search feature.
+Offline Access: Access dish information even without an internet connection.
