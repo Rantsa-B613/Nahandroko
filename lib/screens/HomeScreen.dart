@@ -4,6 +4,7 @@ import 'package:nahandroko/constant.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../pages/home_page.dart';
+import 'AddItems.dart';
 import 'DetailsScreen.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -262,7 +263,11 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ),
                               ),
                               GestureDetector(
-                                onTap: () => print("Ajout plats"),
+                                onTap: () => Navigator.of(context).push(
+                                  MaterialPageRoute(
+                                    builder: (context) => AddDataScreen(),
+                                  ),
+                                ),
                                 child: SvgPicture.asset(
                                   "assets/icons/add.svg",
                                   height: 34.0,
